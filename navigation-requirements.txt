@@ -17,6 +17,8 @@ This document outlines the client's specifications for the navigation bar of the
   1. Trainings
   2. Talk to Us
 
+Arjun -> finished creating the outline for it yesterday, Layla has to take care of design of it 
+
 ## Responsiveness
 - The navigation bar must be mobile-responsive.
 - On smaller screens, the navigation items should collapse into a hamburger menu (sandwich bar).
